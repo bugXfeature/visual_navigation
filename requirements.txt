@@ -3,6 +3,8 @@ ultralytics>=8.2.0
 opencv-python>=4.9.0
 numpy>=1.26.0
 
+# ── Offline text-to-speech (audio guidance) ───
+pyttsx3>=2.90
 
 # ── PyTorch with CUDA 12.x (RTX 3050) ────────
 # Install separately via the PyTorch install selector:
